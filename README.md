@@ -24,7 +24,7 @@ Now that I've enhanced these skills and increased my knowledge in product develo
 ### Contact
 
 <div id="badges">
-  <a href="your-linkedin-URL](https://www.linkedin.com/in/luccaromaniello/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/luccaromaniello/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&logoSize="amd" alt="LinkedIn Badge"/>
   </a>
 </div>
