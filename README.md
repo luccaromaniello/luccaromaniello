@@ -11,7 +11,7 @@ Even before making this transition, I had a solid foundation in design skills, p
 Now that I've enhanced these skills and increased my knowledge in product development, which includes a sharp eye for UI design, I'm currently studying to specialize in frontend development.
 
 ### Education
-- Bachelor of Science in <strong>Software Engineering</strong> (2018-2022)
+- Bachelor of Science in <strong>Software Engineering</strong> (2018-2022) from Pontifícia Universidade Católica de Minas Gerais (PUC Minas)
 - I speak English :uk:, Portuguese :brazil:, and Spanish :es:
 - Currently revisiting JavaScript foundations to later focus on React.
 
@@ -25,7 +25,7 @@ Now that I've enhanced these skills and increased my knowledge in product develo
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/luccaromaniello/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&logoSize="amd" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
