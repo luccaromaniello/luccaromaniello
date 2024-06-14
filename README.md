@@ -31,7 +31,7 @@ Now that I've enhanced these skills and increased my knowledge in product develo
 
 ### GitHub Stats
 
-![Top Langs](https://github-readme-stats-five-rosy-49.vercel.app/api/top-langs/?username=luccaromaniello&layout=compact&theme=nightowl)
+![Top Langs](https://github-readme-stats-five-rosy-49.vercel.app/api/top-langs/?username=luccaromaniello&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=php,dtrace)
 
 <!--
 **luccaromaniello/luccaromaniello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
