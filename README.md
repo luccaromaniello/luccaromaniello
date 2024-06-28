@@ -14,7 +14,6 @@ Now that I've enhanced these skills and increased my knowledge in product develo
 - Postgraduate degree (Lato sensu) in <strong>Full Stack Development</strong> (2024-2025) from Pontifícia Universidade Católica de Minas Gerais (PUC Minas)
 - Bachelor of Science in <strong>Software Engineering</strong> (2018-2022) from Pontifícia Universidade Católica de Minas Gerais (PUC Minas)
 - I speak English :uk:, Portuguese :brazil:, and Spanish :es:
-- Currently revisiting JavaScript foundations to later focus on React.
 
 ### Portfolio
 
