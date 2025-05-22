@@ -17,9 +17,7 @@ Now that I've enhanced these skills and increased my knowledge in product develo
 
 ### Portfolio
 
-🚧 I'm actively updating my portfolio, more projects coming soon!
-
-:art: My Product Design portfolio is password protected, available upon request.
+Available at [https://www.luccaromaniello.com/](https://www.luccaromaniello.com/).
 
 ### Contact
 
