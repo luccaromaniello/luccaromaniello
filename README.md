@@ -1,6 +1,8 @@
 #### Software Engineer specializing in Frontend development, former Product Designer, and open source software enthusiast.
 
-I archived most of my older GitHub repositories since they were mainly college projects. I want the spotlight to be on the new project I’m currently building with React, Node.js, and Express. Although it’s not public yet, I plan to make it available in the near future.
+I'm currently building Teecha, a full-stack app developed with React Native, Node.js, and Express. It's still in the early stages, but it's my main focus, and I'm building it entirely in public. Most of my older GitHub repositories (mainly college projects) have been archived to keep the spotlight on this work.
+
+Teecha is where I'm putting all my energy right now. I plan to keep it open-source and implement end-to-end encryption as it evolves. You can follow my progress and recent activity on GitHub, and more updates are coming soon!
 
 - 🌎 Languages: English :uk:, Portuguese :brazil:, and Spanish :es:
 - 🖥️ Portfolio: [https://www.luccaromaniello.com/](https://www.luccaromaniello.com/)
