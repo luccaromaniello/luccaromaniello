@@ -6,7 +6,7 @@ Teecha is where I'm putting all my energy right now. I plan to keep it open-sour
 
 - 🌎 Languages: English :uk:, Portuguese :brazil:, and Spanish :es:
 - 🖥️ Portfolio: [https://www.luccaromaniello.com/](https://www.luccaromaniello.com/)
-- 💬 Contact: [https://www.linkedin.com/in/luccaromaniello/](https://www.linkedin.com/in/luccaromaniello/)
+- 💬 Contact: [contact@luccaromaniello.com](mailto:contact@luccaromaniello.com)
 - 📍 Based in Brazil, working globally. Open to full-time and freelance opportunities.
 
 <!--
