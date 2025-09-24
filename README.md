@@ -1,4 +1,4 @@
-#### Software Engineer specializing in Frontend development, former Product Designer, and open source software enthusiast.
+#### Software Engineer, former Product Designer, and open source software enthusiast.
 
 🚧 I'm currently updating my portfolio and my coding projects.
 
