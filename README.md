@@ -1,10 +1,12 @@
 #### Software Engineer, former Product Designer, and open source software enthusiast.
 
-🚧 I'm currently updating my portfolio and my coding projects.
-
-- 🌎 Languages: English :uk:, Portuguese :brazil:, and Spanish :es:
+- 🔭 Projects:
+  - [YZZO](https://yzzo.app/) is a clipboard manager built for simplicity and productivity. Open-source and available [here](https://github.com/yzzoapps/yzzo).
+  - [Nyx](https://github.com/luccaromaniello/nyx) is a theme for Zed code editor.
+    
 - 🖥️ Portfolio: [https://www.luccaromaniello.com/](https://www.luccaromaniello.com/)
 - 💬 Contact: [contact@luccaromaniello.com](mailto:contact@luccaromaniello.com)
+- 🌎 Languages: English :uk:, Portuguese :brazil:, and Spanish :es:.
 - 📍 Based in Brazil, working globally. Open to full-time and freelance opportunities.
 
 <!--
