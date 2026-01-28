@@ -1,7 +1,7 @@
 #### Software Engineer, former Product Designer, and open source software enthusiast.
 
 - 🔭 Projects:
-  - [YZZO](https://yzzo.app/) is a clipboard manager built for simplicity and productivity. Open-source and available [here](https://github.com/yzzoapps/yzzo).
+  - [YZZO](https://github.com/yzzoapps/yzzo) is a clipboard manager built for simplicity and productivity.
   - [Nyx](https://github.com/luccaromaniello/nyx) is a theme for Zed code editor.
     
 - 🖥️ Portfolio: [https://www.luccaromaniello.com/](https://www.luccaromaniello.com/)
