@@ -1,6 +1,7 @@
 #### Software Engineer, former Product Designer, and open source software enthusiast.
 
 - 🔭 Projects:
+  - [Minosia](https://minosia.app) is a productivity kit productivity kit that clears the noise.
   - [YZZO](https://github.com/yzzoapps/yzzo) is a clipboard manager built for simplicity and productivity.
   - [Nyx](https://github.com/luccaromaniello/nyx) is a theme for Zed code editor.
     
