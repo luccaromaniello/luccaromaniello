@@ -5,7 +5,7 @@
   - [YZZO](https://github.com/yzzoapps/yzzo) is a clipboard manager built for simplicity and productivity.
   - [Nyx](https://github.com/luccaromaniello/nyx) is a theme for Zed code editor.
     
-- 🖥️ Portfolio: [https://www.luccaromaniello.com/](https://www.luccaromaniello.com/)
+- 🖥️ Portfolio: [https://lucca.fyi/](https://lucca.fyi)
 - 💬 Contact: [contact@luccaromaniello.com](mailto:contact@luccaromaniello.com)
 - 🌎 Languages: English :uk:, Portuguese :brazil:, and Spanish :es:.
 - 📍 Based in Brazil, working globally. Open to full-time and freelance opportunities.
