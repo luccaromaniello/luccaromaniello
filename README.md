@@ -6,7 +6,7 @@
   - [Nyx](https://github.com/luccaromaniello/nyx) is a theme for Zed code editor.
     
 - 🖥️ Portfolio: [https://lucca.fyi/](https://lucca.fyi)
-- 💬 Contact: [contact@luccaromaniello.com](mailto:contact@luccaromaniello.com)
+- 💬 Contact: [contact@luccaromaniello.com](mailto:lucca@romaniello.work)
 - 🌎 Languages: English :uk:, Portuguese :brazil:, and Spanish :es:.
 - 📍 Based in Brazil, working globally. Open to full-time and freelance opportunities.
 
